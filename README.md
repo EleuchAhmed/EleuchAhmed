@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on DataScience<br>I'm currently looking for help in physics<br>I'm currently learning MachineLearning<br>Ask me about Maths<br>
+I'm currently working on my portfolio website<br>I'm currently looking for help in devops<br>I'm currently learning Cybersecurity<br>Ask me about Cryptography<br>
 
 
 ## 🌐 Socials:
