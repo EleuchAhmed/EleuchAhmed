@@ -19,8 +19,8 @@ I am a Software Engineering student at INSAT with a profound focus on **Cybersec
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Ahmed's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EleuchAhmed&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Ahmed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EleuchAhmed&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Top Languages" />
 </div>
 
 ## 📫 Let's Connect
@@ -29,13 +29,13 @@ I am a Software Engineering student at INSAT with a profound focus on **Cybersec
   <a href="mailto:ahmedeleuch525@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://linkedin.com/in/ahmed-eleuch">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://facebook.com/YOUR_FACEBOOK_USERNAME">
+  <a href="https://facebook.com/Ahmed Elleuch">
     <img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME">
+  <a href="https://instagram.com/ahmedelleuchh">
     <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
